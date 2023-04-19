@@ -82,7 +82,7 @@
                             <img src="images/groom.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
-                            <h3><a href="https://www.facebook.com/funlovingcoder"><i class="icon-facebook"></i></a> <b>Dr. Avadhesh Sharma</b> <a href="https://www.instagram.com/funlovingcoder"><i class="icon-instagram"></i></a></h3>
+                            <h3><b>Dr. Avadhesh Sharma</b> </h3>
                         </div>
                     </div>
                     <div class="couple-half">
@@ -90,7 +90,7 @@
                             <img src="images/bride.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
-                            <h3><a href="https://www.facebook.com/profile.php?id=100005382334272"><i class="icon-facebook"></i></a> <b>Richa Sharma</b> <a href="https://www.instagram.com/latikshasharma"><i class="icon-instagram"></i></a></h3>
+                            <h3> <b>Richa Sharma</b> </h3>
                         </div>
                     </div>
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
