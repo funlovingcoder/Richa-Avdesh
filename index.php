@@ -96,8 +96,9 @@
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
                 </div>
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
+                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box" style="margin-top: 25em;">
                         <h2>Hello!</h2>
+                        <h2>We are getting married, please join us to celebrate the milestone with us on</h2>
                         <h3>May 3rd, 2023 Sadalpur, Rajasthan</h3>
                         <p>We invited you to celebrate our wedding at</p>
                         <p>Agrasen Bhavan, Sadalpur, Churu </p>
