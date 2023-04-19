@@ -79,18 +79,18 @@
                 <div class="couple-wrap animate-box fh5co-heading">
                     <div class="couple-half">
                         <div class="groom">
-                            <img src="images/groom.jpg" alt="groom" class="img-responsive">
+                            <img src="images/bride.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
-                            <h3><b>Dr. Avadhesh Sharma</b> </h3>
+                            <h3><b>Richa Sharma</b> </h3>
                         </div>
                     </div>
                     <div class="couple-half">
                         <div class="bride">
-                            <img src="images/bride.jpg" alt="groom" class="img-responsive">
+                            <img src="images/groom.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
-                            <h3> <b>Richa Sharma</b> </h3>
+                            <h3> <b>Dr. Avadhesh Sharma</b> </h3>
                         </div>
                     </div>
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
