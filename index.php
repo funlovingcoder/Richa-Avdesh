@@ -60,7 +60,7 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                                <h1>Dr. Richa Sharma</h1>
+                                <h1 style="margin-top: 10em;">Dr. Richa Sharma</h1>
                                 <h2>&</h2>
                                 <h1>Dr. Avadhesh Sharma</h1>
                                 <p><a href="#" class="btn btn-default btn-sm">Scroll Down</a></p>
